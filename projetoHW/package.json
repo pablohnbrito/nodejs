@@ -1,0 +1,19 @@
+{
+  "name": "request-response-nodejs",
+  "version": "1.0.0",
+  "description": "pacote para testar o funcionamento do npm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "url",
+    "pergunta",
+    "resposta"
+  ],
+  "author": "Pablo Brito",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
